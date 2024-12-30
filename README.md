@@ -1,27 +1,46 @@
-Fresh Start Fitness Landing Page Design
-Overview
-This repository contains the landing page design for Fresh Start Fitness, created to inspire and motivate users to embark on their fitness journey. The design effectively highlights key services, a call-to-action, and essential contact information.
+Name:REDDY PAVAN M
+Company:CODTECH IT SOLUTIONS
+ID:CT6WEHY
+Domain:Figma App Development
+Duration:Dec to Jan 2025
+Mentor:NEELA SANTHOSH
+# Fresh Start Fitness - Landing Page Design
 
-Features
-Modern Design: A sleek and professional layout with vibrant colors to capture attention and engage users.
-Call-to-Action (CTA): A bold "Join Now" button to encourage immediate sign-ups.
-Class Categories: Showcases four major categories:
-Yoga
-Spin
-Group Classes
-Personal Training
-Contact Information: Includes phone, email, website, and address for easy accessibility.
-Design Details
-File Name: Frame.png
-Primary Colors:
-Dark Blue (#0A0E3A) for the background.
-Yellow (#FFD400) for highlights and buttons.
-Typography: Clean and modern font styles for better readability.
-Images: Visual representation of class categories to give users a clear understanding of the services offered.
-Usage
-Viewing the Design:
-Open the file Frame.png to review the visual layout.
-Incorporating in a Project:
-Use this design as a reference or template for creating fitness-related landing pages.
-Customizing:
-Update class categories, contact information, or branding to suit specific project requirements.
+![Fresh Start Fitness Design](Frame.png)
+
+## 📋 Description
+
+This repository contains the landing page design for **Fresh Start Fitness**, a conceptual fitness business. The design focuses on a modern, user-friendly layout with a clean structure and engaging visual elements to encourage users to take action and start their fitness journey.
+
+---
+
+## 🎯 Features
+
+- **Bold Call-to-Action**: "Start Your Journey to a Healthier You" with a prominent **Join Now** button.
+- **Service Categories**:
+  - Yoga
+  - Spin
+  - Group Classes
+  - Personal Training
+- **Contact Information**:
+  - Phone, Email, Website, and Address sections for easy accessibility.
+- **Modern Aesthetic**: A professional color scheme and layout to attract potential customers.
+
+---
+
+## 🖌️ Design Details
+
+- **File Name**: `Frame.png`
+- **Primary Colors**:
+  - Background: `#0A0E3A` (Dark Blue)
+  - Highlights: `#FFD400` (Yellow)
+- **Typography**: Clean and modern sans-serif fonts.
+- **Images**: Clear and relevant visuals for each class category.
+
+---
+
+## 🚀 Usage
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/fresh-start-fitness.git
